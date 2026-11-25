@@ -523,6 +523,8 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 
 ### Security
 
+- [AffixIO/affixio-mcp](https://github.com/AffixIO/affixio-mcp) [![AffixIO/affixio-mcp MCP server](https://glama.ai/mcp/servers/AffixIO/affixio-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AffixIO/affixio-mcp) 📇 🏠 🍎 🪟 🐧 - Local stdio MCP server wrapping the affixio SDK: attest and verify signed action attestations and gate privileged tool calls with signed allow/deny decisions (ML-DSA-65), proving offline with raw tool arguments never stored. `npx -y @affixio/mcp@0.1.0`
+
 | Server                                                                                                                                           | Description                                                                      | Language          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------- |
 | [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp)                                                                                | Binary Ninja plugin for LLM-driven binary analysis                               | Python            |
